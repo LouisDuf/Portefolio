@@ -360,7 +360,7 @@
                 o = JSON.parse(document.getElementById("__NEXT_DATA__").textContent),
                 window.__NEXT_DATA__ = o,
                 h = o.defaultLocale;
-                let e = o.assetPrefix || "";
+                let e = o.assetPrefix || "/Portefolio";
                 if (r.p = "".concat(e, "/_next/"),
                 (0,
                 x.setConfig)({
