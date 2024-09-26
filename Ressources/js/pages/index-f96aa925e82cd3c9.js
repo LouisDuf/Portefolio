@@ -291,30 +291,30 @@
                     rel: "icon",
                     type: "image/png",
                     sizes: "512x192",
-                    href: "Portefolio/Ressources/images/Lfavicon.png"
+                    href: "Ressources/images/Lfavicon.png"
                 }), (0,
                 s.jsx)("link", {
                     rel: "icon",
                     type: "image/png",
                     sizes: "192x192",
-                    href: "Portefolio/Ressources/images/Lfavicon.png"
+                    href: "Ressources/images/Lfavicon.png"
                 }), (0,
                 s.jsx)("link", {
                     rel: "apple-touch-icon",
                     sizes: "180x180",
-                    href: "Portefolio/Ressources/images/Lfavicon.png"
+                    href: "Ressources/images/Lfavicon.png"
                 }), (0,
                 s.jsx)("link", {
                     rel: "icon",
                     type: "image/png",
                     sizes: "32x32",
-                    href: "Portefolio/Ressources/images/Lfaviconx50.png"
+                    href: "Ressources/images/Lfaviconx50.png"
                 }), (0,
                 s.jsx)("link", {
                     rel: "icon",
                     type: "image/png",
                     sizes: "16x16",
-                    href: "Portefolio/Ressources/images/Lfaviconx50.png"
+                    href: "Ressources/images/Lfaviconx50.png"
                 }), (0,
                 s.jsx)("link", {
                     rel: "manifest",
@@ -719,7 +719,7 @@
                     children: [{
                         title: "Projet MAUI : PocketBook de Recherche et de Stockage de Livres pour iPhone et Android",
                         link: "https://github.com/LouisDuf/Projet-MAUI",
-                        image: "Portefolio/Ressources/images/MauiProject.png",
+                        image: "Ressources/images/MauiProject.png",
                         alt: "Image",
                         desc: "Création de l'application multiplateforme PocketBook avec MAUI, pour rechercher et stocker des livres sur iPhone et Android. L'application propose une interface intuitive pour rechercher des livres par titre, auteur ou genre, et permet de gérer une bibliothèque virtuelle personnelle. Grâce à MAUI, l'expérience utilisateur est cohérente et optimisée sur iOS et Android.",
                         tech: ["MAUI", "C#", ".NET", "Xaml"],
@@ -727,7 +727,7 @@
                     {
                         title: "Projet Swift : Élaboration du Jeu DouShouQI",
                         link: "https://github.com/LouisDuf/Projet-Swift",
-                        image: "Portefolio/Ressources/images/SwiftIPad.png",
+                        image: "Ressources/images/SwiftIPad.png",
                         alt: "Image",
                         desc: "Développement d'une version moderne du jeu DouShouQI en utilisant Swift. En intégrant ARKit, les joueurs interagissent avec le plateau et les pièces en réalité augmentée. Utilisation de SpriteKit pour des graphismes fluides et animés, alliant tradition et modernité pour une expérience immersive.",
                         tech: ["Swift", "Arkit", "SpriteKit"],
@@ -735,7 +735,7 @@
                     {
                         title: "Projet React Native : Affiche de Film via l'Utilisation d'une API",
                         link: "https://github.com/LouisDuf/Affiche-de-film",
-                        image: "Portefolio/Ressources/images/react-native.png",
+                        image: "Ressources/images/react-native.png",
                         alt: "Image",
                         desc: "Développement d'une application mobile en React Native pour afficher des informations sur des films via une API. L'application permet de rechercher des films, consulter des affiches, lire des synopsis, et obtenir des détails comme les notes, critiques et dates de sortie. Elle offre une interface élégante et réactive, avec des mises à jour en temps réel, disponible sur iOS et Android.",
                         tech: ["TypeScript", "React Native"],
@@ -743,7 +743,7 @@
                     {
                         title: "Projet Android : Application Cinéma",
                         link: "https://github.com/LouisDuf/Projet-Android",
-                        image: "Portefolio/Ressources/images/AndroidImage.jpg",
+                        image: "Ressources/images/AndroidImage.jpg",
                         alt: "Image",
                         desc: "Développement d'une application mobile dédiée au cinéma. Les utilisateurs peuvent consulter la liste des films à l'affiche et disponibles à l'achat. Une fonctionnalité de géolocalisation est prévue pour informer les utilisateurs des cinémas les plus proches proposant les films qu'ils souhaitent voir, pour une expérience personnalisée et pratique.",
                         tech: ["Kotlin", "Android", "API", "XML"],

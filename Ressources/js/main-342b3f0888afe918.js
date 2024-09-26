@@ -360,7 +360,7 @@
                 o = JSON.parse(document.getElementById("__NEXT_DATA__").textContent),
                 window.__NEXT_DATA__ = o,
                 h = o.defaultLocale;
-                let e = o.assetPrefix || "/Portefolio";
+                let e = o.assetPrefix || "Ressources";
                 if (r.p = "".concat(e, "/_next/"),
                 (0,
                 x.setConfig)({
@@ -422,7 +422,7 @@
                 value: {
                     deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
                     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
-                    path: "Portefolio/Ressources/images",
+                    path: "Ressources/images",
                     loader: "default",
                     dangerouslyAllowSVG: !1,
                     unoptimized: !1
@@ -2173,7 +2173,7 @@
           , n = {
             deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
             imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
-            path: "Portefolio/Ressources/images",
+            path: "Ressources/images",
             loader: "default",
             loaderFile: "",
             domains: [],
@@ -3568,7 +3568,7 @@
                 this.pageLoader = o;
                 let w = (0,
                 m.isDynamicRoute)(e) && self.__NEXT_DATA__.autoExport;
-                if (this.basePath = "/Portefolio",
+                if (this.basePath = "",
                 this.sub = s,
                 this.clc = null,
                 this._wrapApp = i,
