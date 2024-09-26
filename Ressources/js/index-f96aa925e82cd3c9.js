@@ -540,8 +540,8 @@
                         className: e,
                         target: "_blank",
                         rel: "noreferrer noopener",
-                        "aria-label": "CodeFrist (opens in a new tab)",
-                        children: "CodeFrist"
+                        "aria-label": "GitHub (opens in a new tab)",
+                        children: "GitHub"
                     }), ". Tout le texte est composé avec la police", " ", (0,
                     s.jsx)("a", {
                         href: "https://rsms.me/inter/",
