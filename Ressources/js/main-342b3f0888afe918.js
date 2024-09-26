@@ -3568,7 +3568,7 @@
                 this.pageLoader = o;
                 let w = (0,
                 m.isDynamicRoute)(e) && self.__NEXT_DATA__.autoExport;
-                if (this.basePath = "",
+                if (this.basePath = "/Portefolio",
                 this.sub = s,
                 this.clc = null,
                 this._wrapApp = i,
